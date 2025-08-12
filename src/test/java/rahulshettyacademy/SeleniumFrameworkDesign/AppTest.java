@@ -10,4 +10,10 @@ public class AppTest {
   public void shouldAnswerWithTrue() {
     assertTrue(false);
   }
+  @Test
+  public void awareoff(){
+	  assertTrue(false);
+	  
+	  
+  }
 }
